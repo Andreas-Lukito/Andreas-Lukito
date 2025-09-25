@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Data Science student interested in machine learning and data science. My work spans time-series forecasting, image recognition, and classification challenges, with a focus on applying Python to solve practical problems. I am currently involved in research projects on deep learning and classification, where I enjoy experimenting with different models and improving their performance.<br><br>I value curiosity, adaptability, and continuous learning. My goal is to keep building my skills as a developer—whether through research, new projects, or even making a better cup of coffee—while contributing to work that has a practical impact.
+As a Data Science student passionate about machine learning, I thrive on tackling practical challenges in time-series forecasting, image recognition, and classification. My work focuses on applying Python in these areas, and I am currently engaged in research projects on deep learning and classification, where I enjoy experimenting with different models and improving their performance.
+
+I value curiosity, adaptability, and continuous learning. My goal is to keep building my skills through research, new projects, or simply making a good cup of coffee while contributing to impactful work.
 
 
 ## 🌐 Socials:
